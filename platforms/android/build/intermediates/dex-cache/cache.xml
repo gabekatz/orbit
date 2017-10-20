@@ -3,39 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_54e80438ea67fb55bdb2bfb14b29af893c3b6809.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_3080e16cd0a71fd20d93b08be7258b5a7f72cd28.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_54587faf43035d154f1260de915282adadfe3aa7.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-25.3.1_54587faf43035d154f1260de915282adadfe3aa7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/orbit/runtime/unspecified/jars/classes.jar"
+        jar="/Users/gabrielkatz/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="eb6078500d1af5e7b663871706674405c57292a3">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/orbit-runtime-unspecified_2c5fe3d0f145c9007b9233248cc4123d902bf49b.jar" />
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/gson-2.8.2_6ed2edc50547fd1e4aa229f4079cca43859c9c91.jar" />
     </item>
     <item
         is-multidex="false"
@@ -44,7 +26,16 @@
         optimize="true"
         revision="26.0.2"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_d36b866c27d50890d3f323011f8cd39b4488b5cc.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-25.3.1_d36b866c27d50890d3f323011f8cd39b4488b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6de60b559084bc9f17f4d8916aaa35e058831696">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-common-11.2.2_b22ff207402231bf01a277f031c002e8d8266e01.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,7 +44,7 @@
         optimize="true"
         revision="26.0.2"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_dd9a62c5cbd30fcdd59bcdd4ec920e3683c738da.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-25.3.1_dd9a62c5cbd30fcdd59bcdd4ec920e3683c738da.jar" />
     </item>
     <item
         is-multidex="false"
@@ -62,7 +53,7 @@
         optimize="true"
         revision="26.0.2"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_8bfc5ba655a1725ad6283c47cdd6644adc1412d5.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-25.3.1_8bfc5ba655a1725ad6283c47cdd6644adc1412d5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -71,7 +62,25 @@
         optimize="true"
         revision="26.0.2"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_8a961571de45cbe49a7444c0a45bce262483645b.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-25.3.1_8a961571de45cbe49a7444c0a45bce262483645b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-customtabs-25.3.1_6a7a0d678cbf9dd63f2209600bb4f540109489fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fef1e7957f1df7c5ff164c5fb2ae709bf3d942ee">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-auth-11.2.2_b2193f6ba621c94ffb09e6e656bf3c663d533a6d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,7 +89,34 @@
         optimize="true"
         revision="26.0.2"
         sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_ed318dd816b028bb26dd1d9fbcae3a69591aa953.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-25.3.1_ed318dd816b028bb26dd1d9fbcae3a69591aa953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-analytics-11.2.2_b5e51d4d61a18e373cc899f4ddcf8d7201ec4e4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.27.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a0c96cb2e74d3a6e692d920c9e03326e77f6429">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.facebook.android-facebook-share-4.27.0_514b6eec84d337fa15d7a5047983661a4624a5d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-tasks-11.2.2_a1c5f77d5cab8403cf21605cfb11a32e6a4390d0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,16 +125,7 @@
         optimize="true"
         revision="26.0.2"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_b166ac03e74f86b3e5149e097fdd1ef601898454.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_1075722ecb409f0257420ca41856200c5ed343a7.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-25.3.1_b166ac03e74f86b3e5149e097fdd1ef601898454.jar" />
     </item>
     <item
         is-multidex="false"
@@ -107,7 +134,16 @@
         optimize="true"
         revision="26.0.2"
         sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_e9a44d469505d69d8d3f78f9f630fa66136dfe11.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_e9a44d469505d69d8d3f78f9f630fa66136dfe11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-api-phone/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8f8c58325f0b364e30dca132b248ddabc71415e">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-auth-api-phone-11.2.2_f8fb6bf463d42c15cac74b420842e82559b4e58b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,7 +152,16 @@
         optimize="true"
         revision="26.0.2"
         sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_246af5a449721e88cba794eb277c3dc1ccf0c02b.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-25.3.1_246af5a449721e88cba794eb277c3dc1ccf0c02b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-cardview-v7-25.3.1_1afe7ee125dd94c8b06e5afae12bc7f64cc13ff1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,7 +170,7 @@
         optimize="true"
         revision="26.0.2"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_5351bbc994c34d70e2b9c73d74742cc7ad0241ee.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-25.3.1_5351bbc994c34d70e2b9c73d74742cc7ad0241ee.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,7 +179,196 @@
         optimize="true"
         revision="26.0.2"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_a978b1b8d08ab0d7fa75c6b26c1edc9c55798469.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-25.3.1_a978b1b8d08ab0d7fa75c6b26c1edc9c55798469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/bolts-tasks-1.4.0_257742d5b819c4032cb507b3887f2b8898e647a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="30553c734f57621f31d6d56ad7b263123c7a014f">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-database-connection-11.2.2_f8a1ff847b8efe0117bfe5ca261a830ecfa9cba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/bolts-applinks-1.4.0_38f696823e1103c5464b5e475bd69f3b72dfb4dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-25.3.1_54e80438ea67fb55bdb2bfb14b29af893c3b6809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-base-11.2.2_e2ae99aa79751303ab22db34f524fcd8d7b68475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-25.3.1_3080e16cd0a71fd20d93b08be7258b5a7f72cd28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.27.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.facebook.android-facebook-android-sdk-4.27.0_643d65bf6bc5dc7c1601c31343765fb077095f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.27.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.facebook.android-facebook-messenger-4.27.0_2bdb7807b0186a50be4321c46a77162f7f1a956c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-analytics-impl-11.2.2_d2e4126525050eef3f12b536e1ac28d96a57af1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/orbit/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/orbit-runtime-unspecified_2c5fe3d0f145c9007b9233248cc4123d902bf49b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.27.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc9ea2bc291bbebc83f5b160d115c699bddc4e16">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.facebook.android-facebook-core-4.27.0_46b2ab5fd20ba032aa461ae719736ec3cc19f4fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.27.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.facebook.android-facebook-places-4.27.0_1cfe24275c18692f6bb2bdd0b49c290a7c0be117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.27.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.facebook.android-facebook-login-4.27.0_b216ada5b302fecf918d912f5be902fa003d9f8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="27942406f17e8b8e54175fdac0274805b4edcb2f">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-auth-11.2.2_1b7b688db3ffa42622f7ab6b84f80c77d21c4599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-iid-11.2.2_35582b7d05c639b884ba59988435e9e4ce35b698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/core-3.3.0_ef406d7797ab0f58ef11297518327f4857fe897b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.27.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.facebook.android-facebook-applinks-4.27.0_a66ab9f784a04fa96b2ae147fa776eaf706302fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/firebase-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bceea9ecae6127fe2677fffebf1a1a20f19ca52e">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-firebase-release_184aa7b416cafd3e8557a794353283d87f4f678e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="671e3171a25ffd26d01b9d7b548ae50374a9e303">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-auth-base-11.2.2_4330b0a8e22969f33cc9236e705d51a2508ebdc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-25.3.1_1075722ecb409f0257420ca41856200c5ed343a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ed36108b22a98a311676b5ad153d1e3587fcd16">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-basement-11.2.2_3dcfcf03d29076c67ff1dcb661932f5e2081a526.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,7 +377,25 @@
         optimize="true"
         revision="26.0.2"
         sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_a91f502814ebcb8f4150249b1c0139cf3dc52109.jar" />
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_a91f502814ebcb8f4150249b1c0139cf3dc52109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3352405f829252e602a47d252f11edd7c89d86ff">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-database-11.2.2_7ea6b0fc653abc3668bed148ff5a9a117c9185df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.27.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="252896ce41f2a84a2849e29235e66098be7d12ee">
+        <dex dex="/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.facebook.android-facebook-common-4.27.0_5943ac5a1f98df764e93ea4259d1e9e920d6ab2e.jar" />
     </item>
 
 </items>

@@ -8,7 +8,7 @@
 android {  
   defaultConfig {  
     generatedDensities = []
-    applicationId = "org.nativescript.orbit" 
+    applicationId = "com.orbit.android" 
     
     //override supported platforms
     // ndk {

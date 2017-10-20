@@ -115,6 +115,16 @@
 /Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/index.js
 /Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/nativescript-intl-common.js
 /Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/nativescript-intl.js
+/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/firebase-common.js
+/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/firebase.js
+/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/postinstall-hooks.js
+/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/preuninstall-hooks.js
+/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/entitlements-after-prepare.js
+/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/entitlements-before-prepare.js
+/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/installer.js
+/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/postinstall.js
+/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/webpack.config.js
+/Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/winston-mock.js
 /Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/bundle-entry-points.js
 /Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/application/application-common.js
 /Users/gabrielkatz/Desktop/orbit/orbit/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/application/application.js

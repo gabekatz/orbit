@@ -18,8 +18,23 @@ export class AppComponent {
   constructor(private authService: AuthService) {
   }
   title = 'app';
-
+  
   checkAuth() {
-    this.authService.facebookLogin()
+  // firebase.login({
+  //   type: firebase.LoginType.FACEBOOK,
+  //   // Optional
+  //   facebookOptions: {
+  //     // defaults to ['public_profile', 'email']
+  //     scope: ['public_profile', 'email']
+  //   }
+  // }).then(
+  //     function (result) {
+  //       JSON.stringify(result);
+  //     },
+  //     function (errorMessage) {
+  //       console.log(errorMessage);
+  //     }
+  // );
+    // this.authService.facebookLogin()
   }
 }

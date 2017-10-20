@@ -49,7 +49,7 @@ export class AuthService {
   }
 
   facebookLogin() {
-    this.firebaseAuth.auth
+    firebase.auth()
       .signInWithRedirect(new firebase.auth.FacebookAuthProvider)
       .then(res => {
         console.log(res);
